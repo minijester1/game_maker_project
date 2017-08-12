@@ -13,6 +13,9 @@
   <objects name="objects">
     <object>objects\o_test_object</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\r_test_room</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
