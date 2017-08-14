@@ -7,11 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\s_test_sprite</sprite>
+    <sprite>sprites\s_wall_1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\o_test_object</object>
+    <object>objects\o_wall_1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_test_room</room>
